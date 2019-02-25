@@ -1,0 +1,1 @@
+Responsive admin dashboard template built with Vue.js and Bootstrap 4. Developed by GOLD.
